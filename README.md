@@ -24,10 +24,7 @@ A C programming project implementing a directed graph using an adjacency list.
 
 ## Files
 
-* `graph.c` — Main graph implementation
 * `GraphNew.c` — Graph implementation
-* `shortGraph.c` — Short version of the graph program
-* `Project_Report_Graph_Implementation (1).docx` — Project report
 
 ## How to Run
 
