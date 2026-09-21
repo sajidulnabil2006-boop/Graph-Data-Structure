@@ -25,6 +25,7 @@ A C programming project implementing a directed graph using an adjacency list.
 ## Files
 
 * `GraphNew.c` — Graph implementation
+* `Project_Report.doc`
 
 ## How to Run
 
